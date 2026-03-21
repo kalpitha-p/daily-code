@@ -11,6 +11,7 @@ This repository contains my daily C programming practice.
 - Day 4: Addition program
 - Day 5: Swap two numbers
 - Day 6: Leap Year Checker
+- Day 7: simple calculator
 
 ## 🎯 Goal
 To improve my coding skills and maintain consistency.
