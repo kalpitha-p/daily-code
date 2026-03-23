@@ -13,6 +13,7 @@ This repository contains my daily C programming practice.
 - Day 6: Leap Year Checker
 - Day 7: simple calculator
 - Day 8: print numbers from 1 to n
+- Day 9: Sum of first N natural numbers
 
 ## 🎯 Goal
 To improve my coding skills and maintain consistency.
