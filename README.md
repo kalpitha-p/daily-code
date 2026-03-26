@@ -16,6 +16,7 @@ This repository contains my daily C programming practice.
 - Day 9: Sum of first N natural numbers
 - Day 10: program to find factorial
 - Day 11: reverse an integer
+- Day 12: program to check a palindrome number
 
 ## 🎯 Goal
 To improve my coding skills and maintain consistency.
